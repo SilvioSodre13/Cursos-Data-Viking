@@ -1,2 +1,2 @@
 # Cursos-Data-Viking
-Projetos : Youtube Curso Data Viking e plataforma Souk Analytics
+Projetos : Projetos dos cursos Data Viking na plataforma Souk Analytics
